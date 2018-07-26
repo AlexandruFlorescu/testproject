@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-![look](https://screenshots.firefox.com/yQ58goOACjamYkIR/localhost)
+![look](https://screenshotscdn.firefoxusercontent.com/images/34906bff-093b-4a80-9051-7052ae15c7a3.png)
 
 ## Development server
 
